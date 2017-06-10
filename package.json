@@ -1,0 +1,26 @@
+{
+  "name": "newtz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vetulitichev"
+  ],
+  "author": "vetulitichev",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "latency": "^1.0.0",
+    "mongoose": "^4.10.4",
+    "morgan": "^1.8.2",
+    "ping": "^0.2.2",
+    "request-latency": "^1.0.0",
+    "socket.io": "^2.0.2"
+  }
+}
